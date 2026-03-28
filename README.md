@@ -52,6 +52,7 @@ Para rodar este projeto, você precisa ter o [Dart SDK](https://dart.dev/get-dar
 
 Escolha: 1
 Título: Estudar Flutter
+
 Descrição: Criar meu primeiro app
 
 ✅ Tarefa adicionada com sucesso!
